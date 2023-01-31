@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(211, 202, 150);
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(121, 8, 51);
+    border: 10px black;
+    padding: 20px 12px 20px 12px;
+    margin-bottom: 15px;
+}
+
+.circle {
+            border-radius: 30%;
+}
+
+.circle2 {
+            border-radius: 50%;
+}
+
+.circle3 {
+            border-top-left-radius: 20%;
+            border-top-right-radius: 35%;
+            border-bottom-right-radius: 40%;
+            border-bottom-left-radius: 10%;
+}
+
+.appunti {
+        background-color: rgb(50, 111, 190);
+        color: rgb(192, 133, 46);
+}
